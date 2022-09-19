@@ -3,7 +3,7 @@ A booking application that allows users to book for flights, car rentals, and ho
 
 ![Alt](mockup.jpg "Mockup of Project")
 
-Created by [Anthony njiru] (https://github.com/Tony-njiru ) 
+Created by [Anthony njiru] (https://github.com/Tony-njiru ) With help of my school friends
 
 ## Features
 
