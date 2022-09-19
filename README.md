@@ -3,7 +3,7 @@ A booking application that allows users to book for flights, car rentals, and ho
 
 ![Alt](mockup.jpg "Mockup of Project")
 
-Created by [Anthony njiru] (https://github.com/Tony-njiru ) [Harsh Patel](https://github.com/hpatel-cs "Harsh Patel"), [Jennifer Tran](https://github.com/jennifertran "Jennifer Tran"), [Enosh Anwar](https://github.com/EnoshAnwar "Enosh Anwar"), [Zhikan Xu](https://github.com/Jason-xu96 "Zhikan Xu"), and [Huizi Hao](https://github.com/hhz2014 "Huizi Hao").
+Created by [Anthony njiru] (https://github.com/Tony-njiru ) 
 
 ## Features
 
